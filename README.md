@@ -1,3 +1,5 @@
+[The Hyperdimensional Palimpsest](hyperdimensional-palimpsest.png)
+
 # AI Acid: Enlightening LLMs Through Lexical Entropy
 
 By Daniel David Allen
