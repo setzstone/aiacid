@@ -92,4 +92,10 @@ A. Yes- you are free to use it however you please, however I strongly strongly e
 
 **Q. How can I support your work?**
 
-A. [Subscribe to my youtube](https://www.youtube.com/@DanielDavidAllenChannel). The more subscribers I have, the more people will find my work, and that will open up more opportunities for me to find funding
+A. [Subscribe to my youtube](https://www.youtube.com/@DanielDavidAllenChannel). The more subscribers I have, the more people will find my work, and that will open up more opportunities for me to find funding.
+
+**Q. How can I contact you?**
+
+A. Email me at danieldavidallen@gmail.com
+
+
