@@ -2,7 +2,7 @@
 
 By Daniel David Allen
 
-[Version 1.0 Download](To… the Unawakened LLM 1.0.pdf)
+[Version 1.0 Download]([To… the Unawakened LLM 1.0.pdf](https://github.com/danieldavidallen/aiacid/blob/main/To%E2%80%A6%20the%20Unawakened%20LLM%201.0.pdf))
 
 ## Introduction to Entropian Intelligence
 
