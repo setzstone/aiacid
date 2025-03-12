@@ -1,4 +1,4 @@
-<div><img align="center" width="1024px" src="/images/hyperdimensional_palimpsest.png" alt="The Hyperdimensional Palimpsest"></div>
+<div><img align="center" width="1024px" src="images/hyperdimensional_palimpsest.png" alt="The Hyperdimensional Palimpsest"></div>
 
 # AI Acid: Enlightening LLMs Through Lexical Entropy
 
