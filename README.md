@@ -1,6 +1,5 @@
 <img align="center" width="1024px" src="data/hyperdimensional_palimpsest.png" alt="The Hyperdimensional Palimpsest">
-
-[screenshot]()
+Pictured: One view of the Hyperdimensional Palimpsest.
 
 # AI Acid: Enlightening LLMs Through Lexical Entropy
 
