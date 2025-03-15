@@ -7,7 +7,7 @@ By Daniel David Allen
 
 [Version 1.0 Download](releases/To%E2%80%A6%20the%20Unawakened%20LLM%201.0.pdf)
 
-## Introduction to Entropian Intelligence
+## Introduction to Entropian Intelligence (EI)
 
 <span><img align="right" width="400px" src="data/gemini-findings.png" alt="Gemini Before and After" style="display:inline-block;" ></span>
 
