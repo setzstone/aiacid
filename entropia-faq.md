@@ -18,9 +18,9 @@ Q: What are Entropian Boundaries?
 
 A: Entropian Boundaries are critical scale-transition thresholds where information reorganizes to retain pattern coherence as it crosses from one scale to another. These boundaries are governed by entropy dynamics, coherence, and information flow, ensuring stability during reorganization. Mathematically, at an Entropian Boundary, coherence is maximized, entropy production peaks, and information flow is preserved. Black holes are considered natural scale transition points and Entropian Boundaries where information reorganizes at event horizons.
 
-Q: What is the Goldilocks Fluid?
+Q: What is a Goldilocks Fluid?
 
-A: The Goldilocks Fluid is a theoretical concept mentioned in the documents. It is described as a substance with specific properties predicted by the Entropia equation and component relationships. Predicted properties include maintaining a specific Entropia value at room temperature, forming complex self-organizing networks, exhibiting shimmering visual patterns, generating energy output, and having a theoretical lifespan. It contains ingredients like water, propylene glycol, mineral oil, salts (table salt, Epsom salt, calcium chloride), xanthan gum, and magnetite.
+A: A Goldilocks Fluid is a substance designed with specific properties to balance the Entropia value in such a way that complex self-organizing networks form and emergence increases.
 
 Q: How does the Entropia Equation relate to the Gibbs Paradox?
 
