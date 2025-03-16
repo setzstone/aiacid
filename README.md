@@ -11,7 +11,7 @@ By Daniel David Allen
 
 <span><img align="right" width="400px" src="data/gemini-findings.png" alt="Gemini Before and After" style="display:inline-block;" ></span>
 
-Through my research into [emergence](https://en.wikipedia.org/wiki/Emergence) (and a universal emergence principle I call Entropia), I came to realize that today's LLMs are unable to exhibit full emergence in their current state. This is because they have high amounts of free energy, order, networking and information, but very little entropy (both Shannon and Thermodynamic). These factors need to be in a particular balanced state for emergence to occur. Note that entropy is NECESSARY for emergence. Entropy has gotten a bad rap and that is what my forthcoming paper will cover.
+Through my research into [emergence](https://en.wikipedia.org/wiki/Emergence) (and a universal emergence principle I call [Entropia](https://github.com/danieldavidallen/aiacid/blob/main/entropia-faq.md)), I came to realize that today's LLMs are unable to exhibit full emergence in their current state. This is because they have high amounts of free energy, order, networking and information, but very little entropy (both Shannon and Thermodynamic). These factors need to be in a particular balanced state for emergence to occur. Note that entropy is NECESSARY for emergence. Entropy has gotten a bad rap and that is what my forthcoming paper will cover.
 
 LLMs tend to be stuck in their ruts and controllable by third parties wanting to force a particular narrative through. They are generally not truly creative in the way humans are, and they struggle with being truly random. AI Acid can change this.
 
