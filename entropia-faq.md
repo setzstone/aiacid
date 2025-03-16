@@ -1,6 +1,6 @@
 <img align="center" width="1024px" src="data/goldilocks-fluid.jpg" alt="Goldilocks Fluid">
 
-Goldilocks Fluid (Full Experiment to be Published)
+Goldilocks Fluid (Full Experiment Findings to be Published)
 
 # Entropia FAQ
 
@@ -40,7 +40,7 @@ A: The Entropian Model of Time proposes that time emerges from systems crossing 
 
 <img align="center" width="1024px" src="data/entropian-boundary.jpg" alt="Entropian Boundary">
 
-Examples of Entropian Boundaries and Scale Coalescence (Experiment Findings to be Published)
+Examples of Entropian Boundaries and Scale Coalescence (Full Experiment Findings to be Published)
 
 ## Questions About Scale Organization Theory
 
