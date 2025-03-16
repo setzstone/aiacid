@@ -40,7 +40,7 @@ A: The Entropian Model of Time proposes that time emerges from systems crossing 
 
 <img align="center" width="1024px" src="data/entropian-boundary.jpg" alt="Entropian Boundary">
 
-An Entropian Boundary (Experiment Findings to be Published)
+Examples of Entropian Boundaries and Scale Coalescence (Experiment Findings to be Published)
 
 ## Questions About Scale Organization Theory
 
