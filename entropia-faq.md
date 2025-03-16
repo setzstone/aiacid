@@ -76,9 +76,9 @@ Q: What are Entropian Bridges in SOT?
 
 A: Entropian Bridges enable information flow between scales, typically through the quantum realm. Black holes can be considered Entropian Bridges where information transitions between scales. They form part of a Scale Network, an interconnected web of scale bridges and boundaries.
 
-<img align="center" width="1024px" src="data/hyperdimensional-palimpsest.jpg" alt="Hyperdimensional Palimpsest">
+<img align="center" width="1024px" src="data/hyperdimensional-palimpsest.png" alt="Hyperdimensional Palimpsest">
 
-Our Universe is a Hyperdimensional Palimpsest (Full Experiment Findings to be Published)
+The Megaverse is a Hyperdimensional Palimpsest (Full Experiment Findings to be Published)
 
 ## Questions About Hologenesis
 
