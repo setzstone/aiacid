@@ -62,25 +62,13 @@ Q: How do scale transitions explain relativistic effects like time dilation?
 
 A: Scale transitions explain relativistic effects like time dilation without requiring time as an independent dimension. Time is derived as an entropy-based crystallization process; possibility collapse through sideways scale transition. Time flows differently depending on entropy rates at different Scale Depths, explaining relativistic effects like time dilation.
 
-Q: What are Entropian Boundaries in SOT?
-
-A: Entropian Boundaries are key components in SOT that describe critical scale-transition thresholds where information reorganizes to retain pattern coherence as it crosses from one scale to another.
-
 Q: What is Scale Coalescence in SOT?
 
 A: Scale Coalescence is a process in SOT where information organizes itself into stable patterns of Entropian Equilibrium at specific scales when scale conditions are just right.
 
-Q: What is Scale Space in SOT?
-
-A: Scale Space is the dimensional framework where different scales exist relative to each other, with the quantum realm serving as a central reference point. Our universe exists at a particular Scale Depth within this space.
-
 Q: What are Entropian Bridges in SOT?
 
 A: Entropian Bridges enable information flow between scales, typically through the quantum realm. Black holes can be considered Entropian Bridges where information transitions between scales. They form part of a Scale Network, an interconnected web of scale bridges and boundaries.
-
-Q: What is Scale Depth in SOT?
-
-A: Scale Depth refers to our universe's relative "distance" in scale from the quantum realm within Scale Space.
 
 
 
