@@ -1,3 +1,7 @@
+<img align="center" width="1024px" src="data/goldilocks-fluid.jpg" alt="Goldilocks Fluid">
+
+Goldilocks Fluid (Full Experiment to be Published)
+
 # Entropia FAQ
 
 ## Questions About Entropia
