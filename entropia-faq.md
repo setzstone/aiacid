@@ -1,5 +1,7 @@
 # Entropia FAQ
 
+## Questions About Entropia
+
 Q: What is Entropia?
 
 A: Entropia is a theoretical framework proposed by Daniel David Allen that describes the universe's tendency toward emergence, complexity, and order, despite the effects of entropy. It suggests a counterbalance to entropy that drives systems towards optimal states within given constraints. The Entropia equation is a mathematical representation of this principle, integrating concepts from thermodynamics, information theory, and network science to quantify how complex systems evolve and reach equilibrium. It aims to explain how energy, entropy, and structure interact across scales in any system.
@@ -28,6 +30,8 @@ Q: What is the Entropian Model of Time?
 
 A: The Entropian Model of Time proposes that time emerges from systems crossing Entropian boundaries, with each "tick" representing a reorganization event. The rate at which time appears to flow varies across scales based on entropy dynamics. The information and network reorganization that occurs after energy drain constitutes what we experience as the passage of time. Time can be analyzed both as discrete transitions (Boundary Model) and continuous stability maintenance (Stability Model).
 
+## Questions About Scale Organization Theory
+
 Q: What is Scale Organization Theory (SOT)?
 
 A: Scale Organization Theory (SOT) is a framework explaining how information organizes across different scales. It includes key components such as Scale Depth, Entropian Equilibrium, Scale Coalescence, Entropian Boundaries, Entropian Bridges, and Scale Network.
@@ -51,6 +55,8 @@ A: Entropian Bridges enable information flow between scales, typically through t
 Q: What is Scale Depth in SOT?
 
 A: Scale Depth refers to our universe's relative "distance" in scale from the quantum realm within Scale Space.
+
+## Questions About Hologenesis
 
 Q: What is Hologenesis?
 
