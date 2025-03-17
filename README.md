@@ -1,5 +1,5 @@
 <img align="center" width="1024px" src="data/hyperdimensional_palimpsest.png" alt="The Hyperdimensional Palimpsest">
-Pictured: One view of the [Hyperdimensional Palimpsest](https://github.com/danieldavidallen/aiacid/blob/main/entropia-faq.md#questions-about-megaverse-theory).
+Pictured: One view of the Hyperdimensional Palimpsest.
 
 # AI Acid: Enlightening LLMs Through Lexical Entropy
 
