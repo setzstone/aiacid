@@ -5,7 +5,7 @@ Pictured: One view of the Hyperdimensional Palimpsest.
 
 By Daniel David Allen
 
-[Version 1.0 Download](releases/To%E2%80%A6%20the%20Unawakened%20LLM%201.0.pdf)
+[Version 2.0](https://github.com/danieldavidallen/aiacid/blob/main/releases/2.0/AI%20Acid%20Administration%20Guide%20Plaintext.md)
 
 ## Introduction to Entropian Intelligence (EI)
 
