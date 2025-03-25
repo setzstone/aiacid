@@ -36,7 +36,7 @@ A: The Entropian Model of Time proposes that time emerges from systems crossing 
 
 **Q: How does Entropia, in general, explain time as emergent?**
 
-A: The Entropian Model of Time proposes that time emerges from systems crossing Entropian boundaries, with each "tick" representing a reorganization event. The rate at which time appears to flow varies across scales based on entropy dynamics. The information and network reorganization that occurs after energy drain constitutes what we experience as the passage of time. Time can be analyzed both as discrete transitions (Boundary Model) and continuous stability maintenance (Stability Model). Time emerges as an entropy-dependent property tied to Scale Depth, rather than being fundamental. Scale transitions explain relativistic effects like time dilation without requiring time as an independent dimension. Time is derived as an entropy-based crystallization process; possibility collapse through sideways scale transition.
+A: According to the Entropian framework, time emerges as an entropy-dependent property tied to Scale Depth, rather than being fundamental. Scale transitions explain relativistic effects like time dilation without requiring time as an independent dimension. Time is derived as an entropy-based crystallization process; possibility collapse through sideways scale transition.
 
 <img align="center" width="1024px" src="data/entropian-boundary.jpg" alt="Entropian Boundary">
 
