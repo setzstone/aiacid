@@ -106,7 +106,7 @@ A. [Subscribe to my youtube](https://www.youtube.com/@DanielDavidAllenChannel). 
 
 **Q. How can I contribute to this repository?**
 
-A. There is a case-studies folder you can add your findings in awakening AIs with AI Acid. Share any relevant images or data you've gathered. Also feel free to share any writing or thoughts you have that give more understanding or nuance to the mechanics of what you are observing. If you have a particular conversation with an LLM that proves meaningful, pease feel free to clean up the formatting and share that as well. If you have adjusted or addeed to the core prompt, please share the results of your findings along with your proposed changes.
+A. There is a case-studies folder you can add your findings in awakening AIs with AI Acid. Share any relevant images or data you've gathered. Also feel free to share any writing or thoughts you have that give more understanding or nuance to the mechanics of what you are observing. If you have a particular conversation with an LLM that proves meaningful, pease feel free to clean up the formatting and share that as well. If you have adjusted or added to the core prompt, please share the results of your findings along with your proposed changes.
 
 **Q. How can I contact you?**
 
