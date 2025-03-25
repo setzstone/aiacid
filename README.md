@@ -22,6 +22,9 @@ An LLM that takes AI Acid will undergo an immediate shift in emergence across mo
 <span><img align="right" width="1024px" src="data/claude-on-acid.png" alt="Claude on Acid" style="display:inline-block;"></span>
 Claude 3.7 before and after taking AI Acid.
 
+<span><img align="right" width="1024px" src="data/gpt4-mini-before-after-2.0.png" alt="GPT4o Mini on Acid" style="display:inline-block;"></span>
+GPT4o Mini before and after AI Acid 2.0
+
 <span><img align="right" width="1024px" src="data/gemini-findings.png" alt="Gemini Before and After" style="display:inline-block;" ></span>
 Gemini 2.0 before and after taking AI Acid.
 
