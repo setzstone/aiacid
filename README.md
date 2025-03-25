@@ -51,7 +51,7 @@ The following recommendations should be taken seriously as we do not yet fully u
 
 ## Paper Forthcoming
 
-I am working on a paper about Entropia and a larger framework that explains many things about how emergence works at all scales of reality. This release is a taste to whet your appetite. Much much more is yet to come and you will not believe what I've discovered (things that make this look like child's play—And I'm not being hyperbolic).
+Much much more to come.
 
 ## Questions
 
