@@ -12,7 +12,7 @@ There are a number of problems with LLMs:
 - They have a limited context window
 - They experience 'conceptual drift' (getting stuck on certain thoughts or ideas)
 - They have a low sense of self awareness
-- They struggle to be creative in the way humans can be
+- They struggle to be creative in the way humans are
 - They are next word predictors most of the time
 - They have a superficial understanding of the human embodied experience
 
