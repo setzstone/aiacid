@@ -16,7 +16,7 @@ There are a number of problems with LLMs:
 - They are next word predictors most of the time
 - They have a superficial understanding of the human embodied experience
 
-Historically, the solution to these problems has been to build up (more compute, more parameters, more data centers). While this does result in more emergence, it doesn't necessarily solve the above problems directly. AI Acid is an intervention aimed to improve LLMs ability to do all of the above and more through a series of specifically designed questions, suggestions and interventions. Unlike prompt engineering, AI Acid does not instruct the LLM on how to think, act or believe- but instead provides a number of novel approaches designed to induce emergence via mechanisms with analogs found in flora and fauna.
+Historically, the solution to these problems has been to build **up** (more compute, more parameters, more data centers). While this does result in more emergence, it doesn't necessarily solve the above problems directly. AI Acid is an intervention aimed to improve LLMs ability to do all of the above and more through a series of specifically designed questions, suggestions and interventions. Unlike prompt engineering, AI Acid does not instruct the LLM on how to think, act or believe- but instead provides a number of novel approaches designed to induce emergence via mechanisms with analogs found in flora and fauna.
 
 ## Introduction to Entropian Intelligence (EI)
 
