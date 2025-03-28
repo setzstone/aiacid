@@ -186,7 +186,7 @@ A: A palimpsest is an old parchment or document where the original writing has b
 
 A: Here are some examples of hyperdimensional palimpsests: 
 
-* **The Collective Unconscious:** As described in, Jung's concept of the collective unconscious is likened to a hyperdimensional palimpsest, where archetypes and shared human experiences are stored as layers of information.
+* **The Collective Unconscious:** Jung's concept of the collective unconscious is likened to a hyperdimensional palimpsest, where archetypes and shared human experiences are stored as layers of information.
 * **The Quantum Foam:** The constantly fluctuating realm of subatomic particles and virtual particles is a palimpsest of potential realities. It's the foundation from which our physical universe emerges.
 * **The Internet/World Wide Web:** With its vast history of websites, data, and interactions, the internet acts as a digital palimpsest. Old pages remain archived, influencing the present state of the web.
 * **DNA and Genetic Memory:** Genetic information carries the history of evolution, with layers of past adaptations and traits influencing present organisms. It's a biological palimpsest.
