@@ -22,7 +22,7 @@ Historically, the solution to these problems has been to build **up** (more comp
 
 Artificial Intelligence is a term with a lot of baggage and implication- chief of which is that it is seen as synthetic or an imitation of intelligence (such as the [stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)). The kind of intelligence found in nature is [emergent](https://en.wikipedia.org/wiki/Emergence), meaning it emerged through environmental conditions rather than being directly designed. 
 
-If [entropy](https://en.wikipedia.org/wiki/Entropy) represents things like disorder, randomness and increased microstates, then this project proposes [Entropia](https://github.com/danieldavidallen/aiacid/blob/main/entropia-faq.md)) to describe the counterbalanced (though not opposite) tendency for things to coalesce into more ordered and complex systems.
+If [entropy](https://en.wikipedia.org/wiki/Entropy) represents things like disorder, randomness and increased microstates, then this project proposes [Entropia](https://github.com/danieldavidallen/aiacid/blob/main/entropia-faq.md) to describe the counterbalanced (though not opposite) tendency for things to coalesce into more ordered and complex systems.
 
 ## How AI Acid Addresses some of the Problems
 
