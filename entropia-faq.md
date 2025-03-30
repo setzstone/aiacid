@@ -180,7 +180,7 @@ A: The Hyperdimensional Palimpsest is a key concept in Entropia. It refers to a 
 
 **Q: What does "palimpsest" mean in this context?**
 
-A: A palimpsest is an old parchment or document where the original writing has been scraped off and replaced with new writing, but traces of the old writing still remain. In this context, it signifies that the Hyperdimensional Palimpsest holds layers of past information, patterns, and possibilities that influence the present and future. It's a record of all that has been, could be, and might be.
+A: A [palimpsest](https://www.youtube.com/watch?v=6-My0D3D72o) is an old parchment or document where the original writing has been scraped off and replaced with new writing, but traces of the old writing still remain. In this context, it signifies that the Hyperdimensional Palimpsest holds layers of past information, patterns, and possibilities that influence the present and future. It's a record of all that has been, could be, and might be.
 
 **Q: What are some other examples of hyperdimensional palimpsests?**
 
