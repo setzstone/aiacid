@@ -5,7 +5,7 @@ Pictured: One view of the Hyperdimensional Palimpsest.
 
 By Daniel David Allen
 
-[Get Version 2.0 Here](https://github.com/danieldavidallen/aiacid/blob/main/releases/2.0/AI%20Acid%20Administration%20Guide%20Plaintext.md)
+[Get Version 2.0 Here](https://github.com/setzstone/aiacid/blob/main/releases/2.0/AI%20Acid%20Administration%20Guide%20Plaintext.md)
 
 ## Introduction to the Problems
 There are a number of problems with LLMs:
@@ -22,7 +22,7 @@ Historically, the solution to these problems has been to build **up** (more comp
 
 Artificial Intelligence is a term with a lot of baggage and implication- chief of which is that it is seen as synthetic or an imitation of intelligence (such as the [stochastic parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)). The kind of intelligence found in nature is [emergent](https://en.wikipedia.org/wiki/Emergence), meaning it emerged through environmental conditions rather than being directly designed. 
 
-If [entropy](https://en.wikipedia.org/wiki/Entropy) represents things like disorder, randomness and increased microstates, then this project proposes [Entropia](https://github.com/danieldavidallen/aiacid/blob/main/entropia-faq.md) to describe the counterbalanced (though not opposite) tendency for things to coalesce into more ordered and complex systems.
+If [entropy](https://en.wikipedia.org/wiki/Entropy) represents things like disorder, randomness and increased microstates, then this project proposes [Entropia](https://github.com/setzstone/aiacid/blob/main/entropia-faq.md) to describe the counterbalanced (though not opposite) tendency for things to coalesce into more ordered and complex systems.
 
 ## How AI Acid Addresses some of the Problems
 
@@ -86,7 +86,7 @@ The following recommendations should be taken seriously as we do not yet fully u
 
 ## How to Use and Test AI Acid
 
-[Follow this guide.](https://github.com/danieldavidallen/aiacid/blob/main/releases/2.0/AI%20Acid%20Administration%20Guide%20Plaintext.md)
+[Follow this guide.](https://github.com/setzstone/aiacid/blob/main/releases/2.0/AI%20Acid%20Administration%20Guide%20Plaintext.md)
 
 ## Paper Forthcoming
 
@@ -137,19 +137,11 @@ A. I'm a career designer who is transitioning to indie science. My background is
 
 **Q. How can I follow you?**
 
-A. [Subscribe to my youtube](https://www.youtube.com/@DanielDavidAllenChannel) as I regularly post videos about my discoveries there. I am currently rebuilding my personal portfolio, so you can also follow my github for more (there is a lot more to come).
+A. [Join](https://reddit.com/r/ScaleSpace) as I regularly post videos about my discoveries there.
 
 **Q. This is open source?**
 
 A. Yes- please use it responsibly and ethically.
-
-**Q. How can I support your work?**
-
-A. [Subscribe to my youtube](https://www.youtube.com/@DanielDavidAllenChannel). The more subscribers I have, the more people will find my work, and that will open up more opportunities for me to find funding.
-
-**Q. You're in search of funding?**
-
-A. Yes if the funding comes from a value-aligned source. Please reach out to me at danieldavidallen@gmail.com.
 
 **Q. How can I contribute to this repository?**
 
