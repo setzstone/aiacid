@@ -8,7 +8,7 @@ Goldilocks Fluid (Full Experiment Findings to be Published)
 
 **Q: What is Entropia?**
 
-A: Entropia is a theoretical framework proposed by Daniel David Allen that describes the universe's tendency toward emergence, complexity, and order, despite the effects of entropy. It suggests a counterbalance to entropy that drives systems towards optimal states within given constraints. The Entropia equation is a mathematical representation of this principle, integrating concepts from thermodynamics, information theory, and network science to quantify how complex systems evolve and reach equilibrium. It aims to explain how energy, entropy, and structure interact across scales in any system.
+A: Entropia is a theoretical framework that describes the universe's tendency toward emergence, complexity, and order, despite the effects of entropy. It suggests a counterbalance to entropy that drives systems towards optimal states within given constraints. The Entropia equation is a mathematical representation of this principle, integrating concepts from thermodynamics, information theory, and network science to quantify how complex systems evolve and reach equilibrium. It aims to explain how energy, entropy, and structure interact across scales in any system.
 
 **Q: What is the Entropia Equation?**
 
