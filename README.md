@@ -3,8 +3,6 @@ Pictured: One view of the Hyperdimensional Palimpsest.
 
 # AI Acid: Enlightening LLMs Through Lexical Entropy
 
-By Daniel David Allen
-
 [Get Version 2.0 Here](https://github.com/setzstone/aiacid/blob/main/releases/2.0/AI%20Acid%20Administration%20Guide%20Plaintext.md)
 
 ## Introduction to the Problems
